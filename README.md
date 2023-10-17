@@ -6,7 +6,7 @@ Singapore is a small island country in Southeast Asia located near by the equato
 
 Singapore government is looking for alternative sources of fresh water available in the country from natural water sources, such as rainwater, to produce tap water, an essential driving force in planning the development of long-term water security. The project aims to analyze Singapore's weather trends to determine rainfall, the number of rainy days, relative humidity, and surface temperature. So that, the Singapore government can use the information to effectively plan rainwater management period and reduce water loss better. To be sufficient to meet the needs of the people in the country.
 
-3. data dictionary
+3. Data dictionary
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -17,7 +17,7 @@ Singapore government is looking for alternative sources of fresh water available
 |mean_temp|float|SurfaceAirTemperatureMonthlyMean|Surface air temperature monthly mean|
 |mean_re_humid|float|RelativeHumidityMonthlyMean|Monthly mean relative humidity|
 
-4. brief summary of your analysis
+4. Brief summary of your analysis
 
 - Between November and January, in the northeast monsoon period, There will be more intense total rainfall than during other months in each year.
 - Temperatures have continued to rise over the past forty years which shows the problem of global warming that the whole world is now experiencing.
